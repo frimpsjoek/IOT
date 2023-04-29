@@ -8,4 +8,4 @@ By Joseph Frimpong
 
 
 #Project Work - IE 5995 at Wayne State University
-#Supervisor Prof. Yaochan Liu
+#Supervisor Prof. Yanchao Liu
